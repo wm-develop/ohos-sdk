@@ -97,7 +97,7 @@ jobs:
 
       - name: Process and Split Linux
         run: |
-          unzip ohos-sdk-linux-amd64.zip
+          unzip -q ohos-sdk-linux-amd64.zip
           tar -czf ohos-sdk-linux-amd64.tar.gz command-line-tools/
           sha256sum ohos-sdk-linux-amd64.tar.gz > dist/ohos-sdk-linux-amd64.tar.gz.sha256
           split -b 1500m ohos-sdk-linux-amd64.tar.gz dist/ohos-sdk-linux-amd64.tar.gz.
