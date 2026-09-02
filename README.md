@@ -2,10 +2,6 @@
 
 HarmonyOS command line tools download.
 
-- latest CLI tools version: `6.1.1.280`
-- latest SDK version: `6.1.1.125`
-- latest API: `6.1.1(24)`
-
 > [!IMPORTANT]
 >
 > This is for HarmonyOS, not OpenHarmony
