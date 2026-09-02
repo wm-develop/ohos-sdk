@@ -3,6 +3,7 @@
 HarmonyOS command line tools download.
 
 - latest release CLI tools version: `26.0.0.821`
+- latest API: `26`
 
 > [!IMPORTANT]
 >
@@ -10,7 +11,7 @@ HarmonyOS command line tools download.
 
 ## Usage in actions
 
-You can use action [`ErBWs/setup-ohos@v1`](https://github.com/ErBWs/setup-ohos) or configure it manually:
+You can use action [`ErBWs/setup-ohos@v2`](https://github.com/ErBWs/setup-ohos) or configure it manually:
 
 ```shell
 curl -fsSL https://github.com/ErBWs/ohos-sdk/releases/latest/download/ohos-sdk-linux-amd64.tar.gz.aa -o ohos-sdk-linux-amd64.tar.gz.aa
