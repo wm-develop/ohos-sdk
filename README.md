@@ -2,6 +2,8 @@
 
 HarmonyOS command line tools download.
 
+- latest release CLI tools version: `26.0.0.821`
+
 > [!IMPORTANT]
 >
 > This is for HarmonyOS, not OpenHarmony
